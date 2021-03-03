@@ -9,7 +9,7 @@ Summary:	Backport of functools.lru_cache from Python 3.3
 Summary(pl.UTF-8):	Backport functools.lru_cache z Pythona 3.3
 Name:		python-%{pypi_name}
 Version:	1.5
-Release:	1
+Release:	2
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/backports.functools_lru_cache/
